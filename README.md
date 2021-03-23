@@ -1,6 +1,8 @@
-Hi, I'm Pete with the U.S. Digital Service and this is my official U.S. Government GitHub account.
+Hi, I'm Pete and this is my official U.S. Government GitHub account!
 
 ## I've worked at:
+
+![United States Digital Service](images/usds.png)
 
 ![Department of Homeland Security](images/dhs.png)
 ![Executive Office of the President](images/eop.png)
