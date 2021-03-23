@@ -1,6 +1,6 @@
-Hi, I'm Pete and this is my official U.S. Government GitHub account!
-
 ![United States Digital Service](images/usds.png)
+
+_Hi, **[I'm Pete](https://whoispete.com)** and this is my official U.S. Government GitHub account!_
 
 ---
 
