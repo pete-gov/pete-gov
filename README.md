@@ -2,4 +2,4 @@
 
 
 
-![](images/dhs.png | width=200)
+![Department of Homeland Security](images/dhs.png)
