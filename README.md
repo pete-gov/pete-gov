@@ -2,6 +2,8 @@
 
 ### Hi, **[I'm Pete](https://whoispete.com)** and this is my official U.S. Government GitHub account!
 
+---
+
 ## I've worked at:
 
 ![Department of Homeland Security](images/dhs.png)
