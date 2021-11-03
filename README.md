@@ -4,8 +4,30 @@
 
 ---
 
-## I've worked at:
+## I've been credentialed at:
 
 ![Department of Homeland Security](images/dhs.png)
 ![Executive Office of the President](images/eop.png)
-![Centers for Disease Control and Prevention](images/cdc.png)
+![Department of Health and Human Services](images/hhs.png)
+
+- US Department of Homeland Security
+  - [Management Directorate](https://www.dhs.gov/management-directorate)
+  - [Federal Emergency Management Agency](https://www.fema.gov/)
+  - [US Citizenship and Immigration Services](https://www.uscis.gov/)
+- Executive Office of the President
+  - [Office of Management and Budget](https://www.whitehouse.gov/omb/)
+- US Department of Health and Human Services
+  - [Centers for Disease Control and Prevention](https://www.cdc.gov/)
+  - [Administration for Children & Families](https://www.acf.hhs.gov/)
+
+## I've also worked on projects with:
+
+- US Department of Homeland Security
+  - Cybersecurity and Infrastructure Security Agency
+  - Customs and Border Protection
+  - Immigration and Customs Enforcement
+- Consumer Financial Protection Bureau
+- US Department of Labor
+- US Department of State
+- US Department of Agriculture
+- General Services Administration
