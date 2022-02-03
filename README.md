@@ -20,16 +20,22 @@
   - [Centers for Disease Control and Prevention](https://www.cdc.gov/)
   - [Administration for Children & Families](https://www.acf.hhs.gov/)
 
-### I've worked on projects/etc. with:
+### I've worked on projects that touched more, including:
 
 - US Department of Homeland Security
   - Cybersecurity and Infrastructure Security Agency
   - Customs and Border Protection
   - Immigration and Customs Enforcement
 - Consumer Financial Protection Bureau
+- Environment Protection Agency
+- Federal Communications Commission
 - US Department of Labor
 - US Department of State
 - US Department of Agriculture
+- US Department of Energy
+- US Department of Interior
+- US Department of Transportation
+- US Department of Commerce
 - General Services Administration
 - Executive Office of the President
   - Various councils and components
