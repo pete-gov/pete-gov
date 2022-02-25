@@ -4,7 +4,7 @@
 
 ---
 
-## I've worked directly at:
+## I've been credentialed at six agencies and components, including:
 
 ![Department of Homeland Security](images/dhs.png)
 ![Executive Office of the President](images/eop.png)
@@ -20,7 +20,7 @@
   - [Centers for Disease Control and Prevention](https://www.cdc.gov/)
   - [Administration for Children & Families](https://www.acf.hhs.gov/)
 
-### I've worked on projects that touched more, including:
+### I've worked on projects with systems, software, and people at many more:
 
 - US Department of Homeland Security
   - Cybersecurity and Infrastructure Security Agency
