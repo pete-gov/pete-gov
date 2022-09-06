@@ -1,10 +1,13 @@
-![United States Digital Service](images/usds.png)
-
 ### Hi, **[I'm Pete](https://linkedin.com/in/petewaterman)** (he/him) and this is my official U.S. Government GitHub account!
 
 ---
+# U.S. Digital Service, June 2019 to September 2022
 
-## I've been credentialed at six agencies and components, including:
+![United States Digital Service](images/usds.png)
+
+* [Why I joined the U.S. Digital Service](https://medium.com/the-u-s-digital-service/why-we-serve-pete-waterman-24e2b72b3173)
+
+**During my tour, I was credentialed at the following agencies and components:**
 
 ![Department of Homeland Security](images/dhs.png)
 ![Executive Office of the President](images/eop.png)
@@ -20,10 +23,10 @@
   - [Centers for Disease Control and Prevention](https://www.cdc.gov/)
   - [Administration for Children & Families](https://www.acf.hhs.gov/)
 
-### I've worked on projects with systems, software, and people at many more:
+**I worked on projects with systems, software, and people at many more:**
 
 - US Department of Homeland Security
-  - Cybersecurity and Infrastructure Security Agency
+   - Cybersecurity and Infrastructure Security Agency
   - Customs and Border Protection
   - Immigration and Customs Enforcement
 - Consumer Financial Protection Bureau
