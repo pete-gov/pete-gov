@@ -2,8 +2,13 @@
 
 ---
 
-### June 2019 to September 2022
+### Service Timeline:
 
-![United States Digital Service](images/usds.png)
+- Sep 2022 - Present: Technology Modernization Fund PMO @ GSA
+- Aug 2021 - Sep 2022: U.S. Digital Service @ EOP/OMB
+- Jun 2019 - Aug 2021: U.S. Digital Service @ DHS
 
-[Why I joined the U.S. Digital Service.](https://medium.com/the-u-s-digital-service/why-we-serve-pete-waterman-24e2b72b3173)
+### Background:
+
+- [Why I joined the U.S. Digital Service.](https://medium.com/the-u-s-digital-service/why-we-serve-pete-waterman-24e2b72b3173)
+
