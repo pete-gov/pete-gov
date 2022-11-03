@@ -1,4 +1,4 @@
-### Hi, **[I'm Pete](https://linkedin.com/in/petewaterman)** (he/him) and this is my official U.S. Government GitHub account
+### Hi, **[I'm Pete](https://linkedin.com/in/petewaterman)** (he/him) and this is my GitHub account for Gov work!
 
 ---
 
