@@ -1,4 +1,4 @@
-### Hi, **[I'm Pete](https://linkedin.com/in/petewaterman)** (he/him) and this is my GitHub account for Gov work!
+### Hi, **[I'm Pete](https://whoispete.com)** (he/him) and this is my GitHub account for Gov work!
 
 ---
 
@@ -10,5 +10,4 @@
 
 ### Background:
 
-- [Why I joined the U.S. Digital Service.](https://medium.com/the-u-s-digital-service/why-we-serve-pete-waterman-24e2b72b3173)
-
+- [Why I joined the U.S. Digital Service](https://medium.com/the-u-s-digital-service/why-we-serve-pete-waterman-24e2b72b3173)
