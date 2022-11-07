@@ -2,6 +2,8 @@
 
 ---
 
+My work email: peter.waterman@gsa.gov
+
 ### Service Timeline:
 
 - Sep 2022 - Present: Technology Modernization Fund PMO @ GSA
