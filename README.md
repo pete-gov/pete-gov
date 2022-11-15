@@ -2,11 +2,11 @@
 
 ---
 
-My work email: peter.waterman@gsa.gov
+I am currently a Technical Investment Manager (GS-2210) with the [Technology Modernization Fund (TMF) Program Management Office (PMO)](https://tmf.cio.gov/team/). 
 
 ### Service Timeline:
 
-- Sep 2022 - Present: Technology Modernization Fund PMO @ GSA
+- Sep 2022 - Present: TMF PMO @ GSA
 - Aug 2021 - Sep 2022: U.S. Digital Service @ EOP/OMB
 - Jun 2019 - Aug 2021: U.S. Digital Service @ DHS
 
