@@ -2,11 +2,11 @@
 
 ---
 
-I am currently a Technical Investment Manager (GS-2210) with the [Technology Modernization Fund (TMF) Program Management Office (PMO)](https://tmf.cio.gov/team/). 
+I am currently a Technical Investment Manager with the [Technology Modernization Fund (TMF)](https://tmf.cio.gov/team/). I am responsible for a number of project investments at the Department of Homeland Security, the Defense Information Systems Agency, the U.S. Agency for Global Media, the Social Security Administration, the Department of the Treasury, the Health and Human Services Office of Inspector General, and the Federal Aviation Administration... while coordinating proposals and plans for projects at many more.
 
 ### Service Timeline:
 
-- Sep 2022 - Present: TMF PMO @ GSA
+- Sep 2022 - Present: TMF Program Management Office @ GSA
 - Aug 2021 - Sep 2022: U.S. Digital Service @ EOP/OMB
 - Jun 2019 - Aug 2021: U.S. Digital Service @ DHS
 
