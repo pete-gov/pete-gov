@@ -2,7 +2,7 @@
 
 ---
 
-I am currently a Technical Investment Manager with the [Technology Modernization Fund (TMF)](https://tmf.cio.gov/team/). I am responsible for a number of project investments at the Department of Homeland Security, the Defense Information Systems Agency, the U.S. Agency for Global Media, the Social Security Administration, the Department of the Treasury, the Health and Human Services Office of Inspector General, and the Federal Aviation Administration... while coordinating proposals and plans for projects at many more.
+I help agencies build strong projects as a technical lead with the [Technology Modernization Fund (TMF)](https://tmf.cio.gov/). 
 
 ### Service Timeline:
 
