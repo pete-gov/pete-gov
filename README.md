@@ -6,7 +6,7 @@ I help agencies build strong projects as a technical lead with the [Technology M
 
 ### Service Timeline:
 
-- Sep 2022 - Present: TMF Program Management Office @ GSA
+- Sep 2022 - Feb 2024: TMF Program Management Office @ GSA
 - Aug 2021 - Sep 2022: U.S. Digital Service @ EOP/OMB
 - Jun 2019 - Aug 2021: U.S. Digital Service @ DHS
 
