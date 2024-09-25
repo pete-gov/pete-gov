@@ -39,7 +39,7 @@ On this page you'll find:
 
 I worked in the private sector for over twenty years before jumping into government service; I'm still a noob by gov standards but I've been around a bit as all of these jobs required me to work with a lot of folks at a lot of different agencies.
 
-- Aug 2024 - current: TBA
+- Aug 2024 - current: [FedRAMP](https://fedramp.gov) @ GSA
 - [Why I "retired" from federal service in early 2024](https://www.linkedin.com/posts/petewaterman_this-quote-about-about-making-lasting-change-activity-7161059118298918912-qJ2p)
 - Sep 2022 - Feb 2024: [Technology Modernization Fund](https://tmf.cio.gov) @ GSA
 - Aug 2021 - Sep 2022: [U.S. Digital Service](https://usds.gov) @ EOP/OMB
