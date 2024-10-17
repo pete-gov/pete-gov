@@ -5,7 +5,8 @@
 
 - I live in Washington DC near Capitol Hill.
 - I generally work from 8am to 5pm Eastern. I prefer to have focus time without meetings in the beginning and end of the day.
-- I prefer Slack over email, but I treat all written comms as asynchronous and multitaskable. Let’s do voice if you need a conversation.
+- My external email is pete@fedramp.gov - I read everything that folks send.
+- Please send speaking or media invitations to fedramp.communications@gsa.gov instead of directly to me.
 
 On this page you'll find:
 
