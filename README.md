@@ -1,4 +1,4 @@
-## Hi, **[I'm Pete](https://whoispete.com)** (he/him) and this is my GitHub account for Gov work!
+## Hi, **[I'm Pete](https://whoispete.com)** and this is my GitHub account for Gov work!
 ---
 
 **I’m not fancy and don’t give much thought to appearances or formalities.** You can approach me about anything and I’ll listen, regardless of your job title, age, background, or whatever.
